@@ -21,7 +21,6 @@ public:
     
     bool LoadTexture(sample::D2DRenderer* device, const std::wstring& key, const std::filesystem::path& filePath);
 
-    //LoadAseprite(m_Renderer.get(), keyWide, fullPath);
     bool LoadAseprite(sample::D2DRenderer* device, const std::wstring& key, const std::filesystem::path& filePath);
 
     // 텍스처 가져오기 함수

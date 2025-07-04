@@ -195,10 +195,7 @@
     <ClCompile Include="AssetManager.cpp" />
     <ClCompile Include="imgui_demo.cpp" />
     <ClCompile Include="pch.cpp" />
-    <ClCompile Include="TestMain.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='ImGUIDemo|x64'">false</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="TestMain.cpp" />
     <ClCompile Include="TestMainApp.cpp" />
   </ItemGroup>
   <ItemGroup>

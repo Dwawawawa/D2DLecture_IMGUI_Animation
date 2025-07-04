@@ -18,9 +18,6 @@
     <ClCompile Include="pch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TestMain.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="TestMainApp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -34,6 +31,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="AsepriteParser.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TestMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
